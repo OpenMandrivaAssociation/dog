@@ -10,6 +10,7 @@ Source0: %{name}-%{version}.tar.bz2
 Url: http://jl.photodex.com/dog/
 License: GPL
 Group: Text tools
+BuildRoot: %{_tmppath}/%{name}-buildroot
 
 %description
 Dog is intended as a replacement for the obscure utility "cat". 
