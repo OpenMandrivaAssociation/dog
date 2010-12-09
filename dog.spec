@@ -1,6 +1,6 @@
 %define name dog
 %define version 1.7
-%define release %mkrel 8
+%define release %mkrel 9
 
 Summary: Dog better than cat
 Name: %{name}
