@@ -1,4 +1,4 @@
-Summary:	Dog better than cat
+Summary:	Better than cat
 Name:		dog
 Version:	1.7
 Release:	10
