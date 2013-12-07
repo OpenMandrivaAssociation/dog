@@ -1,7 +1,7 @@
 Summary:	Better than cat
 Name:		dog
 Version:	1.7
-Release:	14
+Release:	15
 Group:		Text tools
 License:	GPLv2
 # Seems to be dead
