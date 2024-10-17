@@ -5,7 +5,7 @@ Release:	22
 Group:		Text tools
 License:	GPLv2
 # Seems to be dead
-Url:		http://jl.photodex.com/dog/
+Url:		https://jl.photodex.com/dog/
 Source0:	%{name}-%{version}.tar.bz2
 
 %description
